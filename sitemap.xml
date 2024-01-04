@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://mayrf.xyz/</loc>
+    </url>
+    <url>
+        <loc>https://mayrf.xyz/blog/</loc>
+    </url>
+    <url>
+        <loc>https://mayrf.xyz/blog/first-blog/</loc>
+        <lastmod>2021-12-15</lastmod>
+    </url>
+    <url>
+        <loc>https://mayrf.xyz/blog/second-blog/</loc>
+        <lastmod>2023-11-28</lastmod>
+    </url>
+</urlset>
